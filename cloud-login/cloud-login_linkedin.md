@@ -12,7 +12,7 @@ LinkedIn
 api.linkedin.com
 www.linkedin.com
 static.licdn.com
-media.licdn.com
+*.licdn.com
 ```
 
 
